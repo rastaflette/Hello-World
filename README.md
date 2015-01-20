@@ -3,10 +3,10 @@ hei hei
 
 Det var en gang en ku some satt i et tre og strikket syltetøy.
 
-<!DOCTYPE HTML>
+
 <html>
 <head>
 <title> Halla Balla </title>
-<h1> Ulf-rekeballe </h1>
+<h2> Ulf-rekeballe </h2>
 </head>
 </html>
